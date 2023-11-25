@@ -1,1 +1,2 @@
 # GdP
+Grundlagen der Programmierung
